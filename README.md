@@ -1,8 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamaji&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamaji" /> </p>
+
 <h1 align="left">Hi 👋, I'm Ilham Aji</h1>
 
 📫 How to reach me **ilhmsap@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamaji&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamaji" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
