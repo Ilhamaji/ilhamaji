@@ -35,5 +35,5 @@
 
 <details>
 <summary><b>📖 Current Focus</b></summary>
-Saat ini saya sedang mendalami <b>Natural Language Processing (NLP)</b> khususnya Text Summarization menggunakan model <b>mT5</b> untuk proyek tugas akhir saya.
+Learning <b>Natural Language Processing (NLP)</b> for text summarization with <b>mT0-Base</b>.
 </details>
