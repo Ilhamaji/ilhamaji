@@ -1,34 +1,39 @@
-# 👋 Halo, Saya Ilham Aji!
-**Full-stack Web Developer | Computer Science Student**
-
-Saya seorang pengembang web yang fokus membangun aplikasi yang efisien dan skalabel. Saat ini sedang mendalami Machine Learning untuk Natural Language Processing.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilhamaji&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ilhamaji" />
+  <h1>Hi 👋, I'm Ilham Aji</h1>
+  <p><b>Senior CS Student | Full-Stack Developer | ML Enthusiast</b></p>
+  
+  <a href="mailto:ilhmsap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) |
-| **AI/ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-yellow?style=flat-square) |
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,flutter" alt="Frontend" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,firebase" alt="Backend" />
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp,figma" alt="Tools" />
+</p>
 
 ---
 
-### 🚀 Sedang Dikerjakan
-* 🎓 **Thesis:** Implementasi *Text Summarization* menggunakan model **mT5**.
-* 🤖 **Discord Bot:** Bot AI dengan integrasi Groq & OpenRouter.
-* 📈 **Freelance:** Membangun solusi web kustom untuk klien.
+### 🚀 Quick Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamaji&layout=compact&theme=flat&hide=css,html" alt="Top Langs" />
+</div>
 
----
-
-### 🎮 Diluar Coding
-Kalau tidak di depan VS Code, biasanya saya ada di:
-* 🔫 **Valorant / CS2** (Competitive play)
-* 🛡️ **Dota 2**
-* 🇯🇵 Belajar Bahasa Jepang
-
----
-
-### 📬 Mari Terhubung!
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ilhamaji)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+<details>
+<summary><b>📖 Current Focus</b></summary>
+Saat ini saya sedang mendalami <b>Natural Language Processing (NLP)</b> khususnya Text Summarization menggunakan model <b>mT5</b> untuk proyek tugas akhir saya.
+</details>
