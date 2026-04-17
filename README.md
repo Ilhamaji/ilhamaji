@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=ilhamaji&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ilhamaji" />
   <h1>Hi 👋, I'm Ilham Aji</h1>
   <p><b>Senior CS Student | Full-Stack Developer | ML Enthusiast</b></p>
