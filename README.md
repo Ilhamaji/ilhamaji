@@ -18,7 +18,7 @@
 
 **Backend & Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,firebase" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,php,mysql,firebase" alt="Backend" />
 </p>
 
 **Tools & Infrastructure**
