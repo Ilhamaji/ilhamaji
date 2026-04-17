@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ilhamaji&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ilhamaji" />
   <h1>Hi 👋, I'm Ilham Aji</h1>
-  <p><b>CS Student | Full-Stack Developer | ML Enthusiast</b></p>
+  <p><b>CS Student | Full-Stack Developer | Tech Enthusiast</b></p>
   
   <a href="mailto:ilhmsap@gmail.com">
     <img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
