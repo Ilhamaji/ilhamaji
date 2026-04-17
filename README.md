@@ -8,8 +8,6 @@
   </a>
 </div>
 
----
-
 ### 🛠️ Tech Stack
 **Frontend & Mobile**
 <p align="left">
