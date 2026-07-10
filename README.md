@@ -30,5 +30,5 @@
 
 <details>
 <summary><b>📖 Current Focus</b></summary>
-Learning <b>Natural Language Processing (NLP)</b> for text summarization with <b>mT0-Base</b>.
+Learning <b>Regular Expression (regex)</b> for text summarization with <b>pre-trained model LLM</b>.
 </details>
