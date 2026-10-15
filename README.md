@@ -30,5 +30,5 @@
 
 <details>
 <summary><b>📖 Current Focus</b></summary>
-Learning <b>Regular Expression (regex)</b> for text summarization with <b>pre-trained model LLM</b>.
+Learning <b>Game developing</b> with Godot for building 2D game.</b>.
 </details>
