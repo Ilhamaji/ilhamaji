@@ -30,5 +30,5 @@
 
 <details>
 <summary><b>📖 Current Focus</b></summary>
-Learning <b>Game developing</b> with Godot for building 2D game.</b>.
+Learning <b>Game developing</b> with Godot for building 2D game</b>.
 </details>
