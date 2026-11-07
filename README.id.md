@@ -4,7 +4,7 @@
 
 # Ilham Aji
 
-Mahasiswa ilmu komputer di Indonesia. Saya membangun aplikasi web dari ujung ke ujung, dan paling peduli pada bagian yang mudah dilewati: fallback saat API gagal, skema yang tetap waras saat datanya nyata, README yang benar-benar bisa diikuti.
+Fresh graduate ilmu komputer di Indonesia. Saya membangun aplikasi web dari ujung ke ujung, dan paling peduli pada bagian yang mudah dilewati: fallback saat API gagal, skema yang tetap waras saat datanya nyata, README yang benar-benar bisa diikuti.
 
 <a href="mailto:ilhmsap@gmail.com"><img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ilhamaji.github.io"><img src="https://img.shields.io/badge/Portfolio-ilhamaji.github.io-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -29,4 +29,4 @@ TypeScript, React, Next.js, dan Tailwind untuk frontend. Node/Express atau Larav
 
 ## Sekarang
 
-Menulis skripsi tentang peringkasan otomatis artikel jurnal berbahasa Indonesia. Pipeline-nya ada di [groq-article-summarizer](https://github.com/Ilhamaji/groq-article-summarizer).
+Sedang belajar game development dengan Godot. Proyek pertama saya [haclash](https://github.com/Ilhamaji/haclash), game hack-and-slash 2D — gerak, platform, dan animasi serangan sudah jalan; musuhnya belum ada.
