@@ -52,7 +52,7 @@ A computer science student who builds web applications end to end — from the i
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[klipin-backend](https://github.com/Ilhamaji/klipin-backend)** | API gateway for a thesis literature-research system | Express, PostgreSQL, JWT |
-| **[chetting](https://github.com/Ilhamaji/chetting)** | Real-time chat app: DMs, groups, voice channels | Next.js 15, Prisma, WebRTC |
+| **[cheting](https://github.com/Ilhamaji/cheting)** | Real-time chat app: DMs, groups, voice channels | Next.js 15, Prisma, WebRTC |
 | **[academy-dashboard](https://github.com/Ilhamaji/academy-dashboard)** | School administration and tuition finance system | Laravel, MySQL, Blade |
 | **[umkm-storefront](https://github.com/Ilhamaji/umkm-storefront)** | Online product catalogue for a small business | React, React Router |
 
