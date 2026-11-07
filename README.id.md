@@ -52,7 +52,7 @@ Mahasiswa Ilmu Komputer yang membangun aplikasi web dari ujung ke ujung — dari
 | Project | Deskripsi | Stack |
 | --- | --- | --- |
 | **[klipin-backend](https://github.com/Ilhamaji/klipin-backend)** | API gateway sistem riset referensi skripsi | Express, PostgreSQL, JWT |
-| **[chetting](https://github.com/Ilhamaji/chetting)** | Aplikasi chat real-time: DM, grup, voice channel | Next.js 15, Prisma, WebRTC |
+| **[cheting](https://github.com/Ilhamaji/cheting)** | Aplikasi chat real-time: DM, grup, voice channel | Next.js 15, Prisma, WebRTC |
 | **[academy-dashboard](https://github.com/Ilhamaji/academy-dashboard)** | Sistem administrasi sekolah & keuangan SPP | Laravel, MySQL, Blade |
 | **[umkm-storefront](https://github.com/Ilhamaji/umkm-storefront)** | Katalog produk online untuk usaha kecil | React, React Router |
 
