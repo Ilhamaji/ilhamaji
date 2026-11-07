@@ -6,10 +6,13 @@
 
 **CS Student · Full-Stack Web Developer · NLP Engineer**
 
-Mahasiswa Ilmu Komputer yang membangun aplikasi web dari ujung ke ujung — dari antarmuka sampai model di belakangnya. Tertarik pada NLP, sistem yang bisa diandalkan, dan tools yang membuat orang lain lebih cepat bekerja.
+A computer science student who builds web applications end to end — from the interface down to the model behind it. Interested in NLP, systems that hold up under load, and tools that help other people work faster.
 
 <a href="mailto:ilhmsap@gmail.com"><img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ilhamaji.github.io"><img src="https://img.shields.io/badge/Portfolio-ilhamaji.github.io-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<!-- lang-switcher -->
+**English** · [Bahasa Indonesia](README.id.md)
 
 </div>
 
@@ -38,36 +41,36 @@ Mahasiswa Ilmu Komputer yang membangun aplikasi web dari ujung ke ujung — dari
 
 ### NLP & AI
 
-| Project | Deskripsi | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[groq-article-summarizer](https://github.com/Ilhamaji/groq-article-summarizer)** | Pipeline otomatis unduh PDF jurnal → ekstraksi teks → ringkasan Bahasa Indonesia via Groq | Python, PyMuPDF, Groq |
-| **[skin-cancer-inference-api](https://github.com/Ilhamaji/skin-cancer-inference-api)** | REST API klasifikasi kanker kulit, dideploy ke Google Cloud | Hapi.js, TensorFlow.js, Firestore |
-| **[discord-ai-bot](https://github.com/Ilhamaji/discord-ai-bot)** | Bot Discord multi-provider AI dengan fallback & rate-limit handling | Discord.js, OpenRouter, Gemini |
+| **[groq-article-summarizer](https://github.com/Ilhamaji/groq-article-summarizer)** | Automated pipeline: download a journal PDF, extract the text, summarise it via Groq | Python, PyMuPDF, Groq |
+| **[skin-cancer-inference-api](https://github.com/Ilhamaji/skin-cancer-inference-api)** | Skin-cancer image classification API, deployed to Google Cloud | Hapi.js, TensorFlow.js, Firestore |
+| **[discord-ai-bot](https://github.com/Ilhamaji/discord-ai-bot)** | Multi-provider AI Discord bot with fallback and rate-limit handling | Discord.js, OpenRouter, Gemini |
 
 ### Web & Full-Stack
 
-| Project | Deskripsi | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[klipin-backend](https://github.com/Ilhamaji/klipin-backend)** | API gateway sistem riset referensi skripsi | Express, PostgreSQL, JWT |
-| **[chetting](https://github.com/Ilhamaji/chetting)** | Aplikasi chat real-time: DM, grup, voice channel | Next.js 15, Prisma, WebRTC |
-| **[academy-dashboard](https://github.com/Ilhamaji/academy-dashboard)** | Sistem administrasi sekolah & keuangan SPP | Laravel, MySQL, Blade |
-| **[umkm-storefront](https://github.com/Ilhamaji/umkm-storefront)** | Katalog produk online untuk usaha kecil | React, React Router |
+| **[klipin-backend](https://github.com/Ilhamaji/klipin-backend)** | API gateway for a thesis literature-research system | Express, PostgreSQL, JWT |
+| **[chetting](https://github.com/Ilhamaji/chetting)** | Real-time chat app: DMs, groups, voice channels | Next.js 15, Prisma, WebRTC |
+| **[academy-dashboard](https://github.com/Ilhamaji/academy-dashboard)** | School administration and tuition finance system | Laravel, MySQL, Blade |
+| **[umkm-storefront](https://github.com/Ilhamaji/umkm-storefront)** | Online product catalogue for a small business | React, React Router |
 
 ### Tools & Utilities
 
-| Project | Deskripsi | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[nextjs-agent-template](https://github.com/Ilhamaji/nextjs-agent-template)** | Starter Next.js yang dirancang untuk AI coding agent | Next.js 16, React 19, TS |
-| **[discord-payment-bot](https://github.com/Ilhamaji/discord-payment-bot)** | Bot toko digital dengan QRIS, tiket order, laporan Excel | Discord.js, Supabase |
+| **[nextjs-agent-template](https://github.com/Ilhamaji/nextjs-agent-template)** | Next.js starter designed for AI coding agents | Next.js 16, React 19, TS |
+| **[discord-payment-bot](https://github.com/Ilhamaji/discord-payment-bot)** | Digital storefront bot with QRIS, order tickets, Excel reports | Discord.js, Supabase |
 
 ---
 
-## 🚧 Sedang Dikerjakan
+## 🚧 Work in Progress
 
-Project yang belum selesai — issue atau PR terbuka:
+Unfinished projects — issues and PRs welcome:
 
-- **[ats-cv-maker](https://github.com/Ilhamaji/ats-cv-maker)** 🚧 — Editor CV ATS-friendly dengan Nuxt 4 & ekspor PDF. *Belum ada penyimpanan data.*
-- **[haclash](https://github.com/Ilhamaji/haclash)** 🚧 — Game platformer hack-and-slash 2D di Godot. *Belum ada musuh & sistem damage.*
+- **[ats-cv-maker](https://github.com/Ilhamaji/ats-cv-maker)** 🚧 — ATS-friendly CV editor built with Nuxt 4 and PDF export. *No data persistence yet.*
+- **[haclash](https://github.com/Ilhamaji/haclash)** 🚧 — 2D hack-and-slash platformer in Godot. *No enemies or damage system yet.*
 
 ---
 
