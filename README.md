@@ -4,7 +4,7 @@
 
 # Ilham Aji
 
-Computer science student in Indonesia. I build web apps end to end, and I care most about the parts that are easy to skip: fallback when an API fails, a schema that survives real data, a README you can actually follow.
+Fresh computer science graduate in Indonesia. I build web apps end to end, and I care most about the parts that are easy to skip: fallback when an API fails, a schema that survives real data, a README you can actually follow.
 
 <a href="mailto:ilhmsap@gmail.com"><img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ilhamaji.github.io"><img src="https://img.shields.io/badge/Portfolio-ilhamaji.github.io-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -29,4 +29,4 @@ TypeScript, React, Next.js, and Tailwind for the frontend. Node/Express or Larav
 
 ## Currently
 
-Writing my thesis on automatic summarisation of Indonesian journal articles. The pipeline lives in [groq-article-summarizer](https://github.com/Ilhamaji/groq-article-summarizer).
+Learning game development with Godot. My first project is [haclash](https://github.com/Ilhamaji/haclash), a 2D hack-and-slash — movement, platforms, and attack animations work; enemies don't exist yet.
