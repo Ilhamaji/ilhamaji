@@ -4,9 +4,8 @@
 
 # Ilham Aji
 
+<a href="https://github.com/Ilhamaji?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 <a href="mailto:ilhmsap@gmail.com"><img src="https://img.shields.io/badge/Email-ilhmsap%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ilhamaji.github.io"><img src="https://img.shields.io/badge/Portfolio-ilhamaji.github.io-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</br><a href="https://github.com/Ilhamaji?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 
 <!-- lang-switcher -->
 **English** · [Bahasa Indonesia](README.id.md)
